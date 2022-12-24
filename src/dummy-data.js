@@ -54,6 +54,36 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "aschuster",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://www.gannett-cdn.com/-mm-/1893984dda7012d6ecf90758428c1acee2860fc2/c=0-305-6000-3695/local/-/media/2017/08/16/OHGroup/PortClinton/636384950635231886-1-Cedar-Point-IMG-0498.JPG?width=1320&height=746&fit=crop&format=pjpg&auto=webp',
+        likes: 999999,
+        timestamp: "December 24th 2022, 11:37:59am",
+        comments: [
+            {
+                id: 36,
+                username: "aschuster",
+                text: "Steel Vengeance at Cedar Point in Sandusky OH",
+            },
+            {
+                id: 37,
+                username: "michaelmarzetta",
+                text: "Omg that ride is crazy",
+            },
+            {
+                id: 38,
+                username: "themexican_leprechaun",
+                text: "RMC was really done a great job!",
+            },
+            {
+                id: 39,
+                username: "dennis_futbol",
+                text: "Idc what anybody says... This thing is still better than Gwazi...",
+            },
+        ],
+    },
 ];
 
 export default dummyData;
